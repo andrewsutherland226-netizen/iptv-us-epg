@@ -1,8 +1,8 @@
-playlist_channels=1469
-matched_channels=630
-unmatched_channels=839
-primary_matches=436
-fallback_matches=141
+playlist_channels=1452
+matched_channels=619
+unmatched_channels=833
+primary_matches=434
+fallback_matches=132
 additive_matches=53
 pluto_additive_matches=15
 samsung_additive_matches=15
