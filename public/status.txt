@@ -1,7 +1,7 @@
-generated_utc=2026-10-12T10:09:15.283873+00:00
-candidate_channels_with_current_or_future_programmes=656
-previous_channels_with_current_or_future_programmes=592
-preserved_channels_from_previous=1
+generated_utc=2026-10-13T10:08:21.943073+00:00
+candidate_channels_with_current_or_future_programmes=654
+previous_channels_with_current_or_future_programmes=593
+preserved_channels_from_previous=3
 published_channels_with_current_or_future_programmes=657
 known_good_baseline_commit=4c6d667
 known_good_baseline_historical_matches=694
