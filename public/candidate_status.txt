@@ -1,10 +1,10 @@
-playlist_channels=1531
-matched_channels=659
-unmatched_channels=872
-primary_matches=448
-fallback_matches=157
+playlist_channels=1510
+matched_channels=657
+unmatched_channels=853
+primary_matches=447
+fallback_matches=156
 additive_matches=54
 pluto_additive_matches=15
 samsung_additive_matches=18
 targeted_v7_matches=21
-high_value_unmatched=186
+high_value_unmatched=184
